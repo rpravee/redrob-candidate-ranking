@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0002025,1,0.8628,"Final:0.863 [Semantic:0.80|Career:1.00|Behavioral:0.82] Title:Senior AI Engineer Exp:5.9yrs Country:India JD_skills:ai,search,tensorflow Response:80% Notice:30days OpenToWork:True"
+CAND_0006567,2,0.8487,"Final:0.849 [Semantic:0.79|Career:1.00|Behavioral:0.76] Title:Senior AI Engineer Exp:7.9yrs Country:India JD_skills:vector,search Response:79% Notice:60days OpenToWork:True"
+CAND_0046525,3,0.8438,"Final:0.844 [Semantic:0.77|Career:1.00|Behavioral:0.80] Title:Senior Machine Learning Engineer Exp:6.1yrs Country:India JD_skills:ai,retrieval,search Response:88% Notice:60days OpenToWork:True"
+CAND_0011687,4,0.8406,"Final:0.841 [Semantic:0.75|Career:1.00|Behavioral:0.82] Title:Senior NLP Engineer Exp:7.8yrs Country:India JD_skills:embeddings,ai,search,tensorflow Response:89% Notice:15days OpenToWork:True"
+CAND_0018499,5,0.834,Final:0.834 [Semantic:0.76|Career:1.00|Behavioral:0.76] Title:Senior Machine Learning Engineer Exp:7.2yrs Country:India JD_skills:none Response:61% Notice:15days OpenToWork:True
+CAND_0081846,6,0.8316,"Final:0.832 [Semantic:0.75|Career:1.00|Behavioral:0.78] Title:Lead AI Engineer Exp:6.7yrs Country:India JD_skills:vector,ai,retrieval Response:73% Notice:30days OpenToWork:True"
+CAND_0071974,7,0.8288,Final:0.829 [Semantic:0.76|Career:1.00|Behavioral:0.73] Title:Senior AI Engineer Exp:7.8yrs Country:India JD_skills:none Response:76% Notice:45days OpenToWork:True
+CAND_0005538,8,0.8288,Final:0.829 [Semantic:0.80|Career:0.95|Behavioral:0.73] Title:Senior AI Engineer Exp:5.9yrs Country:India JD_skills:vector Response:81% Notice:90days OpenToWork:True
+CAND_0062247,9,0.8242,"Final:0.824 [Semantic:0.74|Career:1.00|Behavioral:0.76] Title:AI Engineer Exp:7.3yrs Country:India JD_skills:vector,search Response:78% Notice:30days OpenToWork:True"
+CAND_0082086,10,0.824,"Final:0.824 [Semantic:0.74|Career:1.00|Behavioral:0.77] Title:Senior Software Engineer (ML) Exp:6.0yrs Country:India JD_skills:ai,pytorch Response:85% Notice:45days OpenToWork:True"
+CAND_0028422,11,0.8219,"Final:0.822 [Semantic:0.75|Career:1.00|Behavioral:0.74] Title:Junior ML Engineer Exp:5.5yrs Country:India JD_skills:vector,ml,search Response:76% Notice:90days OpenToWork:True"
+CAND_0068910,12,0.8214,Final:0.821 [Semantic:0.76|Career:1.00|Behavioral:0.72] Title:Senior Software Engineer Exp:5.7yrs Country:India JD_skills:none Response:81% Notice:60days OpenToWork:True
+CAND_0073314,13,0.8205,Final:0.821 [Semantic:0.74|Career:1.00|Behavioral:0.75] Title:Senior Software Engineer (ML) Exp:5.2yrs Country:India JD_skills:ml Response:84% Notice:60days OpenToWork:True
+CAND_0094165,14,0.8204,Final:0.820 [Semantic:0.75|Career:1.00|Behavioral:0.74] Title:AI Research Engineer Exp:5.8yrs Country:India JD_skills:vector Response:78% Notice:90days OpenToWork:True
+CAND_0098846,15,0.8202,Final:0.820 [Semantic:0.76|Career:1.00|Behavioral:0.70] Title:AI Engineer Exp:7.6yrs Country:India JD_skills:transformer Response:62% Notice:45days OpenToWork:True
+CAND_0079387,16,0.8198,"Final:0.820 [Semantic:0.76|Career:0.95|Behavioral:0.78] Title:AI Engineer Exp:6.9yrs Country:India JD_skills:python,transformer Response:81% Notice:30days OpenToWork:True"
+CAND_0005311,17,0.8194,"Final:0.819 [Semantic:0.79|Career:1.00|Behavioral:0.61] Title:AI Research Engineer Exp:5.7yrs Country:India JD_skills:ml,fastapi,semantic,search Response:29% Notice:30days OpenToWork:True"
+CAND_0070514,18,0.8178,"Final:0.818 [Semantic:0.72|Career:1.00|Behavioral:0.80] Title:AI Specialist Exp:5.5yrs Country:India JD_skills:python,ml Response:80% Notice:60days OpenToWork:True"
+CAND_0010257,19,0.8177,"Final:0.818 [Semantic:0.75|Career:1.00|Behavioral:0.72] Title:Senior Data Scientist Exp:6.5yrs Country:India JD_skills:python,ml,search,tensorflow Response:72% Notice:120days OpenToWork:True"
+CAND_0096104,20,0.8164,"Final:0.816 [Semantic:0.76|Career:1.00|Behavioral:0.68] Title:AI Specialist Exp:7.0yrs Country:India JD_skills:ml,transformer Response:33% Notice:30days OpenToWork:True"
+CAND_0092706,21,0.816,Final:0.816 [Semantic:0.74|Career:1.00|Behavioral:0.74] Title:AI Research Engineer Exp:5.8yrs Country:India JD_skills:transformer Response:78% Notice:120days OpenToWork:True
+CAND_0077337,22,0.8142,"Final:0.814 [Semantic:0.70|Career:1.00|Behavioral:0.81] Title:Staff Machine Learning Engineer Exp:7.0yrs Country:India JD_skills:vector,semantic,search Response:95% Notice:60days OpenToWork:True"
+CAND_0052682,23,0.8141,"Final:0.814 [Semantic:0.72|Career:1.00|Behavioral:0.76] Title:NLP Engineer Exp:6.6yrs Country:India JD_skills:ai,semantic,search,pytorch Response:88% Notice:30days OpenToWork:True"
+CAND_0011925,24,0.8138,Final:0.814 [Semantic:0.76|Career:1.00|Behavioral:0.66] Title:Senior Software Engineer Exp:5.0yrs Country:UAE JD_skills:none Response:64% Notice:30days OpenToWork:True
+CAND_0093912,25,0.813,Final:0.813 [Semantic:0.72|Career:1.00|Behavioral:0.78] Title:Senior Data Scientist Exp:5.3yrs Country:India JD_skills:embeddings Response:66% Notice:30days OpenToWork:True
+CAND_0043860,26,0.8127,"Final:0.813 [Semantic:0.72|Career:0.95|Behavioral:0.84] Title:Junior ML Engineer Exp:6.1yrs Country:India JD_skills:vector,retrieval,semantic,search Response:81% Notice:30days OpenToWork:True"
+CAND_0073883,27,0.8108,Final:0.811 [Semantic:0.72|Career:1.00|Behavioral:0.76] Title:AI Specialist Exp:5.3yrs Country:India JD_skills:transformer Response:92% Notice:90days OpenToWork:True
+CAND_0098952,28,0.8093,Final:0.809 [Semantic:0.75|Career:1.00|Behavioral:0.67] Title:AI Research Engineer Exp:5.5yrs Country:India JD_skills:ai Response:66% Notice:45days OpenToWork:True
+CAND_0017590,29,0.8087,"Final:0.809 [Semantic:0.77|Career:0.95|Behavioral:0.68] Title:AI Research Engineer Exp:5.1yrs Country:India JD_skills:ai,semantic,search Response:56% Notice:45days OpenToWork:True"
+CAND_0099806,30,0.8077,Final:0.808 [Semantic:0.73|Career:0.95|Behavioral:0.78] Title:AI Engineer Exp:4.6yrs Country:India JD_skills:rag Response:76% Notice:30days OpenToWork:True
+CAND_0059024,31,0.8072,Final:0.807 [Semantic:0.77|Career:1.00|Behavioral:0.60] Title:Senior Software Engineer Exp:7.4yrs Country:India JD_skills:ml Response:52% Notice:90days OpenToWork:True
+CAND_0073007,32,0.8072,"Final:0.807 [Semantic:0.75|Career:0.95|Behavioral:0.75] Title:AI Specialist Exp:5.8yrs Country:India JD_skills:embeddings,ml,pytorch Response:83% Notice:60days OpenToWork:True"
+CAND_0017090,33,0.8071,"Final:0.807 [Semantic:0.72|Career:1.00|Behavioral:0.73] Title:Senior Software Engineer (ML) Exp:5.5yrs Country:India JD_skills:python,ai Response:71% Notice:60days OpenToWork:True"
+CAND_0093401,34,0.807,"Final:0.807 [Semantic:0.75|Career:0.95|Behavioral:0.75] Title:AI Specialist Exp:6.0yrs Country:India JD_skills:embeddings,ai Response:85% Notice:120days OpenToWork:True"
+CAND_0070449,35,0.8068,"Final:0.807 [Semantic:0.75|Career:1.00|Behavioral:0.66] Title:Senior Software Engineer Exp:5.5yrs Country:India JD_skills:llm,transformer Response:17% Notice:30days OpenToWork:True"
+CAND_0068932,36,0.8066,Final:0.807 [Semantic:0.69|Career:1.00|Behavioral:0.80] Title:ML Engineer Exp:5.2yrs Country:India JD_skills:ml Response:82% Notice:30days OpenToWork:True
+CAND_0088025,37,0.8064,"Final:0.806 [Semantic:0.71|Career:1.00|Behavioral:0.76] Title:Staff Machine Learning Engineer Exp:8.6yrs Country:India JD_skills:llm,transformer,rag Response:83% Notice:90days OpenToWork:True"
+CAND_0059017,38,0.8063,"Final:0.806 [Semantic:0.76|Career:1.00|Behavioral:0.63] Title:AI Research Engineer Exp:6.8yrs Country:India JD_skills:ai,transformer,tensorflow Response:75% Notice:90days OpenToWork:True"
+CAND_0015967,39,0.8058,"Final:0.806 [Semantic:0.73|Career:1.00|Behavioral:0.70] Title:Senior Software Engineer (ML) Exp:5.4yrs Country:India JD_skills:semantic,search Response:45% Notice:30days OpenToWork:True"
+CAND_0059795,40,0.8058,"Final:0.806 [Semantic:0.74|Career:1.00|Behavioral:0.69] Title:Senior Software Engineer (ML) Exp:5.6yrs Country:India JD_skills:ai,llm,transformer Response:75% Notice:45days OpenToWork:True"
+CAND_0007567,41,0.8052,"Final:0.805 [Semantic:0.74|Career:1.00|Behavioral:0.68] Title:AI Specialist Exp:6.1yrs Country:India JD_skills:ml,ai,nlp,llm Response:80% Notice:60days OpenToWork:True"
+CAND_0014063,42,0.8046,"Final:0.805 [Semantic:0.74|Career:1.00|Behavioral:0.67] Title:AI Specialist Exp:5.4yrs Country:India JD_skills:ml,nlp,llm Response:69% Notice:45days OpenToWork:True"
+CAND_0001930,43,0.804,Final:0.804 [Semantic:0.76|Career:1.00|Behavioral:0.63] Title:Senior Software Engineer (ML) Exp:6.9yrs Country:India JD_skills:nlp Response:65% Notice:120days OpenToWork:True
+CAND_0081709,44,0.804,Final:0.804 [Semantic:0.78|Career:0.95|Behavioral:0.65] Title:AI Research Engineer Exp:5.5yrs Country:India JD_skills:llm Response:55% Notice:90days OpenToWork:True
+CAND_0050454,45,0.8034,"Final:0.803 [Semantic:0.74|Career:0.95|Behavioral:0.75] Title:AI Engineer Exp:6.8yrs Country:India JD_skills:ai,llm,pytorch Response:77% Notice:30days OpenToWork:True"
+CAND_0093763,46,0.8028,"Final:0.803 [Semantic:0.72|Career:0.95|Behavioral:0.79] Title:Senior Software Engineer (ML) Exp:5.0yrs Country:India JD_skills:vector,ai,search Response:92% Notice:90days OpenToWork:True"
+CAND_0044213,47,0.8019,Final:0.802 [Semantic:0.73|Career:0.90|Behavioral:0.83] Title:AI Specialist Exp:3.7yrs Country:India JD_skills:python Response:89% Notice:45days OpenToWork:True
+CAND_0041918,48,0.8017,"Final:0.802 [Semantic:0.74|Career:0.95|Behavioral:0.74] Title:AI Specialist Exp:5.7yrs Country:India JD_skills:transformer,semantic,search,pytorch Response:87% Notice:90days OpenToWork:True"
+CAND_0048558,49,0.8005,"Final:0.800 [Semantic:0.72|Career:0.95|Behavioral:0.78] Title:Data Scientist Exp:6.7yrs Country:India JD_skills:retrieval,search Response:80% Notice:30days OpenToWork:True"
+CAND_0088441,50,0.7999,Final:0.800 [Semantic:0.75|Career:1.00|Behavioral:0.64] Title:AI Specialist Exp:6.5yrs Country:India JD_skills:retrieval Response:38% Notice:90days OpenToWork:True
+CAND_0007675,51,0.7998,Final:0.800 [Semantic:0.75|Career:1.00|Behavioral:0.62] Title:Senior Data Engineer Exp:7.1yrs Country:India JD_skills:none Response:52% Notice:120days OpenToWork:True
+CAND_0039522,52,0.7989,Final:0.799 [Semantic:0.75|Career:0.95|Behavioral:0.70] Title:Senior Data Engineer Exp:6.9yrs Country:India JD_skills:none Response:69% Notice:60days OpenToWork:True
+CAND_0068410,53,0.7987,Final:0.799 [Semantic:0.75|Career:0.95|Behavioral:0.68] Title:Senior Software Engineer (ML) Exp:5.8yrs Country:India JD_skills:none Response:42% Notice:45days OpenToWork:True
+CAND_0015581,54,0.7986,Final:0.799 [Semantic:0.76|Career:1.00|Behavioral:0.59] Title:Senior Software Engineer (ML) Exp:6.0yrs Country:India JD_skills:python Response:58% Notice:60days OpenToWork:True
+CAND_0015097,55,0.7985,Final:0.798 [Semantic:0.75|Career:0.90|Behavioral:0.76] Title:Senior Software Engineer (ML) Exp:6.0yrs Country:India JD_skills:python Response:69% Notice:30days OpenToWork:True
+CAND_0024990,56,0.7981,"Final:0.798 [Semantic:0.69|Career:1.00|Behavioral:0.76] Title:Junior ML Engineer Exp:5.2yrs Country:India JD_skills:ml,nlp,search Response:83% Notice:60days OpenToWork:True"
+CAND_0064326,57,0.7977,"Final:0.798 [Semantic:0.69|Career:0.95|Behavioral:0.84] Title:Search Engineer Exp:7.6yrs Country:India JD_skills:semantic,search,pytorch Response:94% Notice:45days OpenToWork:True"
+CAND_0064282,58,0.7972,Final:0.797 [Semantic:0.75|Career:1.00|Behavioral:0.62] Title:Senior Software Engineer Exp:6.7yrs Country:India JD_skills:none Response:80% Notice:90days OpenToWork:True
+CAND_0054100,59,0.797,"Final:0.797 [Semantic:0.69|Career:1.00|Behavioral:0.75] Title:Junior ML Engineer Exp:6.0yrs Country:India JD_skills:vector,search Response:79% Notice:60days OpenToWork:True"
+CAND_0032690,60,0.7968,Final:0.797 [Semantic:0.73|Career:1.00|Behavioral:0.66] Title:Senior Software Engineer Exp:5.8yrs Country:India JD_skills:none Response:59% Notice:60days OpenToWork:True
+CAND_0081321,61,0.7968,"Final:0.797 [Semantic:0.77|Career:0.95|Behavioral:0.64] Title:Senior Software Engineer (ML) Exp:5.3yrs Country:India JD_skills:python,ml Response:47% Notice:120days OpenToWork:True"
+CAND_0093193,62,0.7966,"Final:0.797 [Semantic:0.77|Career:0.90|Behavioral:0.70] Title:Senior Machine Learning Engineer Exp:7.9yrs Country:India JD_skills:vector,ranking Response:61% Notice:45days OpenToWork:True"
+CAND_0092839,63,0.7965,Final:0.796 [Semantic:0.73|Career:0.95|Behavioral:0.73] Title:Analytics Engineer Exp:7.5yrs Country:India JD_skills:none Response:77% Notice:30days OpenToWork:True
+CAND_0091229,64,0.7964,"Final:0.796 [Semantic:0.75|Career:1.00|Behavioral:0.61] Title:Senior Software Engineer (ML) Exp:7.0yrs Country:India JD_skills:ai,search Response:35% Notice:60days OpenToWork:True"
+CAND_0061969,65,0.7964,"Final:0.796 [Semantic:0.73|Career:1.00|Behavioral:0.66] Title:Senior Data Engineer Exp:6.7yrs Country:India JD_skills:vector,ai Response:79% Notice:90days OpenToWork:True"
+CAND_0072688,66,0.7964,Final:0.796 [Semantic:0.70|Career:0.95|Behavioral:0.82] Title:Data Scientist Exp:6.9yrs Country:India JD_skills:none Response:87% Notice:45days OpenToWork:True
+CAND_0065195,67,0.7959,"Final:0.796 [Semantic:0.67|Career:1.00|Behavioral:0.81] Title:Search Engineer Exp:5.1yrs Country:India JD_skills:ml,llm,search Response:80% Notice:45days OpenToWork:True"
+CAND_0046064,68,0.7953,Final:0.795 [Semantic:0.72|Career:0.95|Behavioral:0.76] Title:Senior NLP Engineer Exp:8.9yrs Country:India JD_skills:python Response:78% Notice:30days OpenToWork:True
+CAND_0039754,69,0.795,"Final:0.795 [Semantic:0.72|Career:0.90|Behavioral:0.82] Title:Senior Applied Scientist Exp:16.2yrs Country:India JD_skills:ai,nlp,llm Response:81% Notice:30days OpenToWork:True"
+CAND_0044222,70,0.7949,"Final:0.795 [Semantic:0.76|Career:0.90|Behavioral:0.73] Title:AI Engineer Exp:7.7yrs Country:India JD_skills:vector,ai,search Response:60% Notice:60days OpenToWork:True"
+CAND_0081852,71,0.7949,"Final:0.795 [Semantic:0.71|Career:1.00|Behavioral:0.70] Title:Senior Data Scientist Exp:5.9yrs Country:India JD_skills:vector,ml,semantic,search Response:44% Notice:45days OpenToWork:True"
+CAND_0057927,72,0.7948,Final:0.795 [Semantic:0.75|Career:1.00|Behavioral:0.60] Title:Senior Software Engineer Exp:7.3yrs Country:India JD_skills:none Response:54% Notice:90days OpenToWork:True
+CAND_0041402,73,0.7948,"Final:0.795 [Semantic:0.73|Career:1.00|Behavioral:0.66] Title:AI Specialist Exp:6.3yrs Country:India JD_skills:retrieval,rag Response:44% Notice:60days OpenToWork:True"
+CAND_0010603,74,0.7947,"Final:0.795 [Semantic:0.69|Career:1.00|Behavioral:0.75] Title:ML Engineer Exp:5.3yrs Country:India JD_skills:retrieval,search Response:94% Notice:90days OpenToWork:True"
+CAND_0034177,75,0.7947,Final:0.795 [Semantic:0.74|Career:0.90|Behavioral:0.77] Title:Senior Software Engineer (ML) Exp:3.6yrs Country:India JD_skills:ai Response:82% Notice:60days OpenToWork:True
+CAND_0082026,76,0.7946,Final:0.795 [Semantic:0.72|Career:1.00|Behavioral:0.68] Title:Data Analyst Exp:6.0yrs Country:India JD_skills:none Response:55% Notice:90days OpenToWork:True
+CAND_0020781,77,0.7946,Final:0.795 [Semantic:0.70|Career:1.00|Behavioral:0.72] Title:HR Manager Exp:7.5yrs Country:India JD_skills:none Response:71% Notice:60days OpenToWork:True
+CAND_0053591,78,0.7943,"Final:0.794 [Semantic:0.73|Career:0.90|Behavioral:0.79] Title:AI Engineer Exp:5.3yrs Country:Canada JD_skills:embeddings,ai,search Response:81% Notice:60days OpenToWork:True"
+CAND_0076163,79,0.794,Final:0.794 [Semantic:0.69|Career:1.00|Behavioral:0.75] Title:NLP Engineer Exp:6.9yrs Country:India JD_skills:ai Response:84% Notice:60days OpenToWork:True
+CAND_0018080,80,0.7935,Final:0.793 [Semantic:0.75|Career:0.90|Behavioral:0.75] Title:Senior Data Engineer Exp:5.2yrs Country:India JD_skills:none Response:81% Notice:90days OpenToWork:True
+CAND_0076906,81,0.7933,Final:0.793 [Semantic:0.75|Career:1.00|Behavioral:0.59] Title:Senior Data Engineer Exp:5.7yrs Country:India JD_skills:ml Response:78% Notice:120days OpenToWork:True
+CAND_0008425,82,0.7929,"Final:0.793 [Semantic:0.75|Career:0.95|Behavioral:0.66] Title:Senior NLP Engineer Exp:7.8yrs Country:India JD_skills:vector,nlp,transformer Response:66% Notice:90days OpenToWork:True"
+CAND_0000273,83,0.7927,Final:0.793 [Semantic:0.72|Career:1.00|Behavioral:0.66] Title:ML Engineer Exp:5.8yrs Country:India JD_skills:llm Response:47% Notice:60days OpenToWork:True
+CAND_0004402,84,0.7926,Final:0.793 [Semantic:0.77|Career:0.85|Behavioral:0.76] Title:AI Research Engineer Exp:6.0yrs Country:India JD_skills:search Response:83% Notice:60days OpenToWork:True
+CAND_0008295,85,0.7922,"Final:0.792 [Semantic:0.74|Career:0.85|Behavioral:0.84] Title:AI Research Engineer Exp:6.5yrs Country:India JD_skills:python,ml Response:89% Notice:45days OpenToWork:True"
+CAND_0069248,86,0.7921,"Final:0.792 [Semantic:0.74|Career:1.00|Behavioral:0.62] Title:AI Research Engineer Exp:5.4yrs Country:India JD_skills:ml,tensorflow Response:75% Notice:120days OpenToWork:True"
+CAND_0086154,87,0.7921,"Final:0.792 [Semantic:0.67|Career:1.00|Behavioral:0.79] Title:Data Scientist Exp:6.8yrs Country:India JD_skills:ml,search Response:90% Notice:90days OpenToWork:True"
+CAND_0047542,88,0.7918,Final:0.792 [Semantic:0.74|Career:0.95|Behavioral:0.68] Title:Senior Software Engineer (ML) Exp:5.0yrs Country:India JD_skills:ml Response:75% Notice:45days OpenToWork:True
+CAND_0000859,89,0.7912,"Final:0.791 [Semantic:0.73|Career:1.00|Behavioral:0.63] Title:Senior Software Engineer Exp:5.9yrs Country:India JD_skills:semantic,search Response:77% Notice:90days OpenToWork:True"
+CAND_0058575,90,0.7907,"Final:0.791 [Semantic:0.73|Career:1.00|Behavioral:0.63] Title:AI Engineer Exp:5.8yrs Country:India JD_skills:ml,ai Response:69% Notice:90days OpenToWork:True"
+CAND_0098217,91,0.7906,"Final:0.791 [Semantic:0.70|Career:1.00|Behavioral:0.70] Title:ML Engineer Exp:6.4yrs Country:India JD_skills:ml,ai Response:84% Notice:45days OpenToWork:True"
+CAND_0058688,92,0.7906,Final:0.791 [Semantic:0.74|Career:0.90|Behavioral:0.76] Title:AI Engineer Exp:6.7yrs Country:Germany JD_skills:ai Response:74% Notice:15days OpenToWork:True
+CAND_0094685,93,0.7905,Final:0.790 [Semantic:0.75|Career:0.90|Behavioral:0.73] Title:AI Research Engineer Exp:3.5yrs Country:India JD_skills:ml Response:68% Notice:45days OpenToWork:True
+CAND_0037980,94,0.7902,"Final:0.790 [Semantic:0.69|Career:1.00|Behavioral:0.73] Title:Senior Applied Scientist Exp:9.0yrs Country:India JD_skills:nlp,search,pytorch Response:63% Notice:0days OpenToWork:True"
+CAND_0006970,95,0.7899,Final:0.790 [Semantic:0.71|Career:1.00|Behavioral:0.66] Title:Senior Software Engineer Exp:5.3yrs Country:India JD_skills:retrieval Response:76% Notice:90days OpenToWork:True
+CAND_0084460,96,0.7899,"Final:0.790 [Semantic:0.74|Career:1.00|Behavioral:0.59] Title:Senior Software Engineer (ML) Exp:5.6yrs Country:India JD_skills:llm,semantic,search Response:45% Notice:60days OpenToWork:True"
+CAND_0018925,97,0.7898,Final:0.790 [Semantic:0.75|Career:1.00|Behavioral:0.57] Title:AI Research Engineer Exp:5.8yrs Country:India JD_skills:transformer Response:45% Notice:90days OpenToWork:True
+CAND_0090155,98,0.7893,Final:0.789 [Semantic:0.70|Career:1.00|Behavioral:0.70] Title:ML Engineer Exp:5.8yrs Country:India JD_skills:none Response:64% Notice:90days OpenToWork:True
+CAND_0044890,99,0.7889,"Final:0.789 [Semantic:0.73|Career:1.00|Behavioral:0.62] Title:AI Research Engineer Exp:5.0yrs Country:India JD_skills:ml,ai,llm Response:79% Notice:90days OpenToWork:True"
+CAND_0030468,100,0.7888,"Final:0.789 [Semantic:0.67|Career:1.00|Behavioral:0.76] Title:Senior Applied Scientist Exp:5.4yrs Country:India JD_skills:retrieval,search,tensorflow Response:78% Notice:45days OpenToWork:True"
