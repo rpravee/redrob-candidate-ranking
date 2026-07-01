@@ -1,0 +1,80 @@
+# Redrob Hackathon — Submission Metadata
+# Track 1 — Data & AI Challenge
+
+# ============================================================================
+# Team identity
+# ============================================================================
+team_name: "praveena-solo"
+
+primary_contact:
+  name: "Praveena Ravichandran"
+  email: "rpraveena1114@gmail.com"
+  phone: "+91-9025897921"
+
+team_members:
+  - name: "Praveena Ravichandran"
+    email: "rpraveena1114@gmail.com"
+    role: "Data Analyst / ML Engineer"
+
+# ============================================================================
+# Code and reproducibility
+# ============================================================================
+github_repo: "https://github.com/rpravee/redrob-candidate-ranking"
+
+sandbox_link: "https://colab.research.google.com/drive/1lCO5lI3Uh7aXOl3UFQvWZS0dNslA4OUg?usp=sharing"
+
+reproduce_command: "Open redrob_ai.ipynb in Google Colab, set MODE = 'full' in the dataset-loading cell, and run all cells in order (Cell 1 to Cell 13). Final ranked output is saved to submission.csv."
+
+# ============================================================================
+# Compute environment
+# ============================================================================
+compute:
+  platform: "Google Colab (CPU runtime)"
+  cpu_cores: 2
+  ram_gb: 12
+  python_version: "3.11"
+  os: "Ubuntu (Colab runtime)"
+  uses_gpu_for_inference: false
+  has_network_during_ranking: false
+  pre_computation_required: false
+  pre_computation_time_minutes: 0
+
+# ============================================================================
+# AI tools declaration
+# ============================================================================
+ai_tools_used:
+  - "Claude"
+
+ai_usage_summary: |
+  Used Claude for architecture design discussion, debugging Colab errors,
+  and code review while building the candidate ranking pipeline. No
+  candidate data was sent to any LLM API — all scoring runs locally using
+  the open-source sentence-transformer model (BAAI/bge-base-en-v1.5).
+
+# ============================================================================
+# Approach summary
+# ============================================================================
+methodology_summary: |
+  Hybrid 3-signal ranker combining semantic similarity, career fit, and
+  behavioral engagement. Candidate text profiles are built with weighted
+  fields (current title x3, headline x2, most recent job x3, expert-level
+  skills x2) and embedded using BAAI/bge-base-en-v1.5, then scored against
+  the job description via cosine similarity (50% weight). A career score
+  (30%) rewards 5-9 years experience, product-company background, India
+  location, and GitHub activity, while penalizing pure services-firm
+  careers. A behavioral score (20%) applies exponential recency decay to
+  last-active date alongside response rate, interview completion, and
+  notice period. A honeypot filter removes candidates with impossible
+  career timelines or unrealistic all-expert skill profiles before
+  ranking. Output is validated for row count, duplicate IDs, and rank
+  ordering before being finalized as submission.csv.
+
+# ============================================================================
+# Declarations
+# ============================================================================
+declarations:
+  read_submission_spec: true
+  code_is_original_work: true
+  no_collusion: true
+  honeypot_check_done: true
+  reproduction_tested: true
