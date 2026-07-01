@@ -48,13 +48,14 @@ final_score = (0.50 × semantic_score)
 - `scikit-learn` (cosine similarity)
 - `pandas` / `numpy`
 - `python-docx` (reading the job description file)
-- Google Colab (T4 GPU)
+- Google Colab (CPU)
 ## Files
 | File | Description |
 |------|-------------|
 | `redrob_ai.ipynb` | Complete, executed notebook (13 cells) |
 | `submission.csv` | Final ranked top 100 candidates |
 | `README.md` | This file |
+| `submission_metadata.yaml` | This file |
  
 ## How to Run
 1. Open `redrob_ai.ipynb` in Google Colab.
